@@ -60,3 +60,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Content/StarterContent/*
+Content/FirstPerson/*
+Content/Effects/*
+Content/Geometry/*
+*.db
