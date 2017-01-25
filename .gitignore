@@ -62,7 +62,7 @@ Intermediate/*
 DerivedDataCache/*
 
 Content/StarterContent/*
-Content/FirstPerson/*
 Content/Effects/*
 Content/Geometry/*
+
 *.db
