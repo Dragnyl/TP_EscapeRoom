@@ -62,6 +62,7 @@ Intermediate/*
 DerivedDataCache/*
 
 Content/StarterContent/*
+Content/Effects/*
 
 
 *.db
